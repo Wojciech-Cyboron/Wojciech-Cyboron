@@ -22,7 +22,7 @@ I create and still want to learn new things every day 🔭
 <br />
 <br />
 
-Works with HTML/CSS, JavaScript, a little of PHP 🌱
+Works with HTML, CSS, JavaScript, a little of PHP 🌱
 <br />
 <br />
 ## Get in touch 📫
