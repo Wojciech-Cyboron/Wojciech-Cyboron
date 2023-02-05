@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello 👋  
-I am passionate about coding and new technologies. 
+I am passionate about coding and new technologies. 😄 
 <br />
 <br />
 
@@ -47,7 +47,7 @@ Works with HTML/CSS, JavaScript, a little of PHP 🌱
 <br />
 <br />
 
-## technologies: 
+##  Languages 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
