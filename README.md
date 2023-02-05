@@ -16,9 +16,14 @@ Here are some ideas to get you started:
 ### Hello 👋  
 I am passionate about coding and new technologies. 
 <br />
+<br />
+
 I create and still want to learn new things every day.
 <br />
+<br />
+
 Works with HTML/CSS, JavaScript, a little of PHP 🌱
+<br />
 <br />
 ## Get in touch 📫
 [<img
@@ -29,8 +34,10 @@ Works with HTML/CSS, JavaScript, a little of PHP 🌱
   align="left"
   alt="stack-overflow"
   src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"
-/>](#)<br />
+/>](#)
 <br />
+<br />
+
 ## My other projects
 [<img
   align="left"
@@ -38,7 +45,9 @@ Works with HTML/CSS, JavaScript, a little of PHP 🌱
   src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
 />](https://codepen.io/Cocoradler)
 <br />
-<br />## technologies: 
+<br />
+
+## technologies: 
 <img align="left" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
