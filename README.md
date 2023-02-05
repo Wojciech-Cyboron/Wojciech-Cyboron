@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello 👋  
-I am passionate about coding and new technologies. 😄 
+I am passionate about coding and new technologies 😄 
 <br />
 <br />
 
-I create and still want to learn new things every day.
+I create and still want to learn new things every day 🔭
 <br />
 <br />
 
