@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello 👋 ? I am passionate about coding and new technologies- ? I create and
-still want to learn new things every day- ? Works with HTML/CSS, JavaScript, a
-little of PHP 🌱- ?
+### Hello 👋  
+I am passionate about coding and new technologies. 
+<br />
+I create and still want to learn new things every day.
+<br />
+Works with HTML/CSS, JavaScript, a little of PHP 🌱
 <br />
 ## Get in touch 📫
 [<img
