@@ -38,7 +38,7 @@ Works with HTML/CSS, JavaScript, a little of PHP 🌱
 <br />
 <br />
 
-## My other projects 💥🧨
+## My other projects 💥
 [<img
   align="left"
   alt="linked-in"
