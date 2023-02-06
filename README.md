@@ -12,13 +12,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
 ### Hello 👋  
 I am passionate about coding and new technologies 😄 
 <br />
 <br />
 
-I create and still want to learn new things every day 🔭
+I create and still want to learn new things every day. 
+I am working hard to become frontend and wordpress developer.
+This is the begin of my journey 🔭
 <br />
 <br />
 
